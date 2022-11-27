@@ -5,3 +5,6 @@
  * the styles in here will be applied to the Document, without any sort of CSS scoping.
  *
  */
+ @tailwind base;
+ @tailwind components;
+ @tailwind utilities;
